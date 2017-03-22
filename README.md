@@ -9,3 +9,5 @@ Best Blogs
 
 [3] https://github.com/rushter/data-science-blogs
 
+[4] http://www.becomingadatascientist.com/
+
